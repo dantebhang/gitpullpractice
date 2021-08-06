@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-different edit
-=======
-Edited first line
->>>>>>> 38a594e21b0f41ca201fc525ed9886cab5373537
+edit1
 Socrates
 Joan of Arc
 Abraham Lincoln
